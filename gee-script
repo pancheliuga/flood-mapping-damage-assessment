@@ -1,3 +1,4 @@
+//Define aria of interest (geometry)
 var aoi = 
     /* color: #d63000 */
     /* shown: false */
@@ -7,7 +8,7 @@ var aoi =
           [30.43683541479669, 50.59280066417201],
           [30.43683541479669, 50.76770706755718]]], null, false);
           
-          //Set start and end dates of a period BEFORE & AFTER the flood
+//Set start and end dates of a period BEFORE & AFTER the flood
 var before_start= '2022-02-01';
 var before_end='2022-02-24';
 var after_start='2022-03-10';
